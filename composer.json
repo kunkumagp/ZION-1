@@ -1,0 +1,15 @@
+{
+    "name": "kunkumagp/zion",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kunkuma Geeth Prasanna",
+            "email": "kunkumagp@gmail.com"
+        }
+    ],
+    "require": {}
+}
